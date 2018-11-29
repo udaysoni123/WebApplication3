@@ -4,7 +4,8 @@ namespace ClassLibrary1
 {
     public class Class1
     {
-        public int id { get; set; }
-        public string username { get; set; }
+        public int Id { get; set; }
+        public string Username { get; set; }
+        public string Password { get; set; }
     }
 }

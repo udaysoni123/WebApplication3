@@ -15,8 +15,9 @@ namespace WebApplication3.Controllers
         {
             Class1 c1 = new Class1
             {
-                id = 10,
-                username = "uday"
+          Id=111,
+          Username="uday",
+          Password="pass"
             };
             return View(c1);
         }
