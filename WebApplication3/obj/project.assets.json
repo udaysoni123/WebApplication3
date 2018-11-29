@@ -11764,11 +11764,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aadyam\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+      "projectUniqueName": "C:\\Users\\Aadyam\\Documents\\GitHub\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
       "projectName": "WebApplication3",
-      "projectPath": "C:\\Users\\Aadyam\\source\\repos\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
+      "projectPath": "C:\\Users\\Aadyam\\Documents\\GitHub\\WebApplication3\\WebApplication3\\WebApplication3.csproj",
       "packagesPath": "C:\\Users\\Aadyam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aadyam\\source\\repos\\WebApplication3\\WebApplication3\\obj\\",
+      "outputPath": "C:\\Users\\Aadyam\\Documents\\GitHub\\WebApplication3\\WebApplication3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
