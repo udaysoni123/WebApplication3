@@ -2,7 +2,10 @@
 
 namespace ClassLibrary2
 {
-    public class Class1
+    public class Employee
     {
+        public int employeeid { get; set; }
+        public string employeename { get; set; }
+
     }
 }
