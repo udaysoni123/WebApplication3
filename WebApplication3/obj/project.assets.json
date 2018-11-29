@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.1": {
+      "ClassLibrary1_data/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.1/ClassLibrary1.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/ClassLibrary1.dll": {}
+        }
+      },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
         "type": "package",
         "dependencies": {
@@ -4337,6 +4346,17 @@
     }
   },
   "libraries": {
+    "ClassLibrary1_data/1.0.0": {
+      "sha512": "N5pRmOrnTJ6atZQx1BWEeI2OccpzuA1gDaqduYE9OIup3KVc2T5d88GQwa1K+CRhMAGa/bmAMrSE/lgudA8ZkA==",
+      "type": "package",
+      "path": "classlibrary1_data/1.0.0",
+      "files": [
+        ".signature.p7s",
+        "classlibrary1_data.1.0.0.nupkg.sha512",
+        "classlibrary1_data.nuspec",
+        "lib/netcoreapp2.1/ClassLibrary1.dll"
+      ]
+    },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "sha512": "AIgEc1up4pvH8kXy+eG1x4Qfqd6piAq3yk11pveCQXWNkkYoiKdflSmcJZuWcerdMcAaoF0xC/mWGoTW4vF4Dg==",
       "type": "package",
@@ -11752,6 +11772,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
+      "ClassLibrary1_data >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0"
@@ -11798,6 +11819,10 @@
     "frameworks": {
       "netcoreapp2.1": {
         "dependencies": {
+          "ClassLibrary1_data": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
             "target": "Package",

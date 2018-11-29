@@ -39,8 +39,6 @@ C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\bin\Debug\netco
 C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.pdb
 C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.Views.dll
 C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.Views.pdb
-C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\ClassLibrary1.dll
-C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\ClassLibrary1.pdb
 C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csprojAssemblyReference.cache
 C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csproj.CoreCompileInputs.cache
 C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cache
