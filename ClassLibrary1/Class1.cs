@@ -8,5 +8,6 @@ namespace ClassLibrary1
         public string Username { get; set; }
         public string Password { get; set; }
         public int da { get; set; }
+        public string clear { get; set; }
     }
 }

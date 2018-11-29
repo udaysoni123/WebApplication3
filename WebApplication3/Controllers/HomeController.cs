@@ -17,7 +17,8 @@ namespace WebApplication3.Controllers
             {
           Id=111,
           Username="uday",
-          Password="pass"
+          Password="pass",
+          da=1111
             };
             return View(c1);
         }
