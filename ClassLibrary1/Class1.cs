@@ -9,5 +9,6 @@ namespace ClassLibrary1
         public string Password { get; set; }
         public int da { get; set; }
         public int testno { get; set; }
+        public string testvalue { get; set; }
     }
 }
