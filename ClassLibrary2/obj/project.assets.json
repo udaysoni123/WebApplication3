@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aadyam\\Documents\\GitHub\\WebApplication3\\ClassLibrary2\\ClassLibrary2.csproj",
+      "projectUniqueName": "C:\\Users\\Aadyam\\source\\repos\\WebApplication3\\ClassLibrary2\\ClassLibrary2.csproj",
       "projectName": "ClassLibrary2_data",
-      "projectPath": "C:\\Users\\Aadyam\\Documents\\GitHub\\WebApplication3\\ClassLibrary2\\ClassLibrary2.csproj",
+      "projectPath": "C:\\Users\\Aadyam\\source\\repos\\WebApplication3\\ClassLibrary2\\ClassLibrary2.csproj",
       "packagesPath": "C:\\Users\\Aadyam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aadyam\\Documents\\GitHub\\WebApplication3\\ClassLibrary2\\obj\\",
+      "outputPath": "C:\\Users\\Aadyam\\source\\repos\\WebApplication3\\ClassLibrary2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -712,7 +712,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/team-data": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
