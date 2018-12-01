@@ -692,7 +692,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
       "projectUniqueName": "C:\\Users\\Aadyam\\Documents\\GitHub\\WebApplication3\\ClassLibrary1\\ClassLibrary1.csproj",
       "projectName": "ClassLibrary1_data",
@@ -743,13 +743,5 @@
         "warn": true
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Aadyam\\Documents\\GitHub\\WebApplication3\\ClassLibrary1\\obj\\ClassLibrary1.csproj.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

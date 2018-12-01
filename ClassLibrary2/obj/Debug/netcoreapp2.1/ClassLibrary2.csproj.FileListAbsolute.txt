@@ -6,4 +6,3 @@ C:\Users\Aadyam\Documents\GitHub\WebApplication3\ClassLibrary2\obj\Debug\netcore
 C:\Users\Aadyam\Documents\GitHub\WebApplication3\ClassLibrary2\obj\Debug\netcoreapp2.1\ClassLibrary2.AssemblyInfo.cs
 C:\Users\Aadyam\Documents\GitHub\WebApplication3\ClassLibrary2\obj\Debug\netcoreapp2.1\ClassLibrary2.dll
 C:\Users\Aadyam\Documents\GitHub\WebApplication3\ClassLibrary2\obj\Debug\netcoreapp2.1\ClassLibrary2.pdb
-C:\Users\Aadyam\Documents\GitHub\WebApplication3\ClassLibrary2\obj\Debug\netcoreapp2.1\ClassLibrary2.csprojAssemblyReference.cache
