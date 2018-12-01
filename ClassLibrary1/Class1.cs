@@ -7,8 +7,8 @@ namespace ClassLibrary1
         public int Id { get; set; }
         public string Username { get; set; }
         public string Password { get; set; }
-        public int da { get; set; }
-        public int testno { get; set; }
-        public string testvalue { get; set; }
+        public int Data { get; set; }
+        public string Testvalue { get; set; }
+        public int Versionno { get; set; }
     }
 }

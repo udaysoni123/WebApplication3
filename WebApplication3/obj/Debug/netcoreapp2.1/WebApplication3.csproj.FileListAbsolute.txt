@@ -32,6 +32,14 @@ C:\Users\Aadyam\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreap
 C:\Users\Aadyam\source\repos\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\ClassLibrary1.pdb
 C:\Users\Aadyam\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.Views.pdb
 C:\Users\Aadyam\source\repos\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csproj.CopyComplete
+C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csprojAssemblyReference.cache
+C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cache
+C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cs
+C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.AssemblyInfoInputs.cache
+C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.AssemblyInfo.cs
+C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.dll
+C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.pdb
 C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.deps.json
 C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.runtimeconfig.json
 C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.runtimeconfig.dev.json
@@ -39,12 +47,6 @@ C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\bin\Debug\netco
 C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.pdb
 C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.Views.dll
 C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\bin\Debug\netcoreapp2.1\WebApplication3.Views.pdb
-C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csprojAssemblyReference.cache
-C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csproj.CoreCompileInputs.cache
-C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cache
-C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorAssemblyInfo.cs
-C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.AssemblyInfoInputs.cache
-C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.AssemblyInfo.cs
 C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.TagHelpers.input.cache
 C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.TagHelpers.output.cache
 C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorCoreGenerate.cache
@@ -62,5 +64,3 @@ C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netco
 C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.RazorTargetAssemblyInfo.cs
 C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.Views.pdb
 C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.csproj.CopyComplete
-C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.dll
-C:\Users\Aadyam\Documents\GitHub\WebApplication3\WebApplication3\obj\Debug\netcoreapp2.1\WebApplication3.pdb

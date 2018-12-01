@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "ClassLibrary1_data/1.0.0": {
+      "ClassLibrary1_data/1.0.0-CI00017": {
         "type": "package",
         "compile": {
           "lib/netcoreapp2.1/ClassLibrary1.dll": {}
@@ -1131,7 +1131,7 @@
           "lib/netstandard2.0/Microsoft.AspNetCore.Razor.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Razor.Design/2.1.2": {
+      "Microsoft.AspNetCore.Razor.Design/2.1.1": {
         "type": "package",
         "build": {
           "build/netstandard2.0/Microsoft.AspNetCore.Razor.Design.props": {}
@@ -4346,13 +4346,13 @@
     }
   },
   "libraries": {
-    "ClassLibrary1_data/1.0.0": {
-      "sha512": "N5pRmOrnTJ6atZQx1BWEeI2OccpzuA1gDaqduYE9OIup3KVc2T5d88GQwa1K+CRhMAGa/bmAMrSE/lgudA8ZkA==",
+    "ClassLibrary1_data/1.0.0-CI00017": {
+      "sha512": "EUCw0KjGbAINCgg53n8xuUmrAke0T1Y+5TTsFn0iCf08KtAV0SE8su7xjOl2eUD8M59xMVV/42q/E80uhkVQjQ==",
       "type": "package",
-      "path": "classlibrary1_data/1.0.0",
+      "path": "classlibrary1_data/1.0.0-ci00017",
       "files": [
         ".signature.p7s",
-        "classlibrary1_data.1.0.0.nupkg.sha512",
+        "classlibrary1_data.1.0.0-ci00017.nupkg.sha512",
         "classlibrary1_data.nuspec",
         "lib/netcoreapp2.1/ClassLibrary1.dll"
       ]
@@ -5256,17 +5256,17 @@
         "microsoft.aspnetcore.razor.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.Razor.Design/2.1.2": {
-      "sha512": "sa/cztXesLyTgCiYuef0RK2EAImnak0w2wrjCh/YBTvbn4iV2eTy0q3F8CyUkGiaYEyxUKGVTko6+7SMRBL4Gg==",
+    "Microsoft.AspNetCore.Razor.Design/2.1.1": {
+      "sha512": "BOK5fckW9v7xWjpEI6bPGwkjw10OPVASZcAa8HoWJo/0Mmg4Azddj92v8noU+YgvD/6zNZ9o/RiRXXKxk5rYwQ==",
       "type": "package",
-      "path": "microsoft.aspnetcore.razor.design/2.1.2",
+      "path": "microsoft.aspnetcore.razor.design/2.1.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "build/netstandard2.0/Microsoft.AspNetCore.Razor.Design.CodeGeneration.targets",
         "build/netstandard2.0/Microsoft.AspNetCore.Razor.Design.props",
         "buildMultiTargeting/Microsoft.AspNetCore.Razor.Design.props",
-        "microsoft.aspnetcore.razor.design.2.1.2.nupkg.sha512",
+        "microsoft.aspnetcore.razor.design.2.1.1.nupkg.sha512",
         "microsoft.aspnetcore.razor.design.nuspec",
         "tasks/net46/Microsoft.AspNetCore.Razor.Tasks.dll",
         "tasks/netstandard2.0/Microsoft.AspNetCore.Razor.Tasks.dll",
@@ -11772,9 +11772,8 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "ClassLibrary1_data >= 1.0.0",
+      "ClassLibrary1_data >= 1.0.0-CI00017",
       "Microsoft.AspNetCore.App >= 2.1.1",
-      "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
   },
@@ -11803,7 +11802,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/team-data": {}
       },
       "frameworks": {
         "netcoreapp2.1": {
@@ -11821,18 +11821,13 @@
         "dependencies": {
           "ClassLibrary1_data": {
             "target": "Package",
-            "version": "[1.0.0, )"
+            "version": "[1.0.0-CI00017, )"
           },
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
             "target": "Package",
             "version": "[2.1.1, )",
             "autoReferenced": true
-          },
-          "Microsoft.AspNetCore.Razor.Design": {
-            "suppressParent": "All",
-            "target": "Package",
-            "version": "[2.1.2, )"
           },
           "Microsoft.NETCore.App": {
             "target": "Package",
@@ -11847,5 +11842,13 @@
         "warn": true
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Aadyam\\Documents\\GitHub\\WebApplication3\\WebApplication3\\obj\\WebApplication3.csproj.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

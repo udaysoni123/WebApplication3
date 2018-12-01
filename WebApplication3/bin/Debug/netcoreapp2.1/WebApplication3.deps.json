@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.1",
-    "signature": "2e2bbefbf9ca688c5a5dab439bf596b4217ed904"
+    "signature": "310eeedd18b6755af9dfcb2eb005b894d27caaa8"
   },
   "compilationOptions": {
     "defines": [
@@ -24,9 +24,8 @@
     ".NETCoreApp,Version=v2.1": {
       "WebApplication3/1.0.0": {
         "dependencies": {
-          "ClassLibrary1_data": "1.0.0",
+          "ClassLibrary1_data": "1.0.0-CI00017",
           "Microsoft.AspNetCore.App": "2.1.1",
-          "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.NETCore.App": "2.1.0"
         },
         "runtime": {
@@ -36,7 +35,7 @@
           "WebApplication3.dll": {}
         }
       },
-      "ClassLibrary1_data/1.0.0": {
+      "ClassLibrary1_data/1.0.0-CI00017": {
         "runtime": {
           "lib/netcoreapp2.1/ClassLibrary1.dll": {
             "assemblyVersion": "1.0.0.0",
@@ -47,7 +46,6 @@
           "lib/netcoreapp2.1/ClassLibrary1.dll": {}
         }
       },
-      "Microsoft.AspNetCore.Razor.Design/2.1.2": {},
       "Microsoft.NETCore.App/2.1.0": {
         "dependencies": {
           "Microsoft.NETCore.DotNetHostPolicy": "2.1.0",
@@ -335,7 +333,7 @@
           "Microsoft.AspNetCore.NodeServices": "2.1.1",
           "Microsoft.AspNetCore.Owin": "2.1.1",
           "Microsoft.AspNetCore.Razor": "2.1.1",
-          "Microsoft.AspNetCore.Razor.Design": "2.1.2",
+          "Microsoft.AspNetCore.Razor.Design": "2.1.1",
           "Microsoft.AspNetCore.Razor.Language": "2.1.1",
           "Microsoft.AspNetCore.Razor.Runtime": "2.1.1",
           "Microsoft.AspNetCore.ResponseCaching": "2.1.1",
@@ -921,7 +919,7 @@
           "Microsoft.AspNetCore.Mvc.RazorPages": "2.1.1",
           "Microsoft.AspNetCore.Mvc.TagHelpers": "2.1.1",
           "Microsoft.AspNetCore.Mvc.ViewFeatures": "2.1.1",
-          "Microsoft.AspNetCore.Razor.Design": "2.1.2",
+          "Microsoft.AspNetCore.Razor.Design": "2.1.1",
           "Microsoft.Extensions.Caching.Memory": "2.1.1",
           "Microsoft.Extensions.DependencyInjection": "2.1.1"
         },
@@ -1124,6 +1122,9 @@
         "compile": {
           "lib/netstandard2.0/Microsoft.AspNetCore.Razor.dll": {}
         },
+        "compileOnly": true
+      },
+      "Microsoft.AspNetCore.Razor.Design/2.1.1": {
         "compileOnly": true
       },
       "Microsoft.AspNetCore.Razor.Language/2.1.1": {
@@ -3167,19 +3168,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "ClassLibrary1_data/1.0.0": {
+    "ClassLibrary1_data/1.0.0-CI00017": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-N5pRmOrnTJ6atZQx1BWEeI2OccpzuA1gDaqduYE9OIup3KVc2T5d88GQwa1K+CRhMAGa/bmAMrSE/lgudA8ZkA==",
-      "path": "classlibrary1_data/1.0.0",
-      "hashPath": "classlibrary1_data.1.0.0.nupkg.sha512"
-    },
-    "Microsoft.AspNetCore.Razor.Design/2.1.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-sa/cztXesLyTgCiYuef0RK2EAImnak0w2wrjCh/YBTvbn4iV2eTy0q3F8CyUkGiaYEyxUKGVTko6+7SMRBL4Gg==",
-      "path": "microsoft.aspnetcore.razor.design/2.1.2",
-      "hashPath": "microsoft.aspnetcore.razor.design.2.1.2.nupkg.sha512"
+      "sha512": "sha512-EUCw0KjGbAINCgg53n8xuUmrAke0T1Y+5TTsFn0iCf08KtAV0SE8su7xjOl2eUD8M59xMVV/42q/E80uhkVQjQ==",
+      "path": "classlibrary1_data/1.0.0-ci00017",
+      "hashPath": "classlibrary1_data.1.0.0-ci00017.nupkg.sha512"
     },
     "Microsoft.NETCore.App/2.1.0": {
       "type": "package",
@@ -3705,6 +3699,13 @@
       "sha512": "sha512-oDxJTufrOF2Y7g+p2jU5+2xtrcsb3KX20pH/KosLW5rbsJMAqaOwprI6gJlBQCGtMCYl/MbnC45ZObPmzyI0NQ==",
       "path": "microsoft.aspnetcore.razor/2.1.1",
       "hashPath": "microsoft.aspnetcore.razor.2.1.1.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Razor.Design/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BOK5fckW9v7xWjpEI6bPGwkjw10OPVASZcAa8HoWJo/0Mmg4Azddj92v8noU+YgvD/6zNZ9o/RiRXXKxk5rYwQ==",
+      "path": "microsoft.aspnetcore.razor.design/2.1.1",
+      "hashPath": "microsoft.aspnetcore.razor.design.2.1.1.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Razor.Language/2.1.1": {
       "type": "package",

@@ -6,6 +6,7 @@ namespace ClassLibrary2
     {
         public int employeeid { get; set; }
         public string employeename { get; set; }
+        public string employeeidno { get; set; }
 
     }
 }

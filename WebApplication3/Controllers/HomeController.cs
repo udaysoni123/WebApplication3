@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using WebApplication3.Models;
 using ClassLibrary1;
@@ -15,10 +11,9 @@ namespace WebApplication3.Controllers
         {
             Class1 c1 = new Class1
             {
-          Id=111,
-          Username="uday",
-          Password="pass",
-          da=1111
+                Id = 111,
+                Username = "uday",
+                Password = "pass"               
             };
             return View(c1);
         }
