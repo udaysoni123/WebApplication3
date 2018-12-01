@@ -1,0 +1,9 @@
+C:\Users\Aadyam\Documents\GitHub\WebApplication3\ClassLibrary3\bin\Debug\netcoreapp2.1\ClassLibrary3.deps.json
+C:\Users\Aadyam\Documents\GitHub\WebApplication3\ClassLibrary3\bin\Debug\netcoreapp2.1\ClassLibrary3.dll
+C:\Users\Aadyam\Documents\GitHub\WebApplication3\ClassLibrary3\bin\Debug\netcoreapp2.1\ClassLibrary3.pdb
+C:\Users\Aadyam\Documents\GitHub\WebApplication3\ClassLibrary3\obj\Debug\netcoreapp2.1\ClassLibrary3.csprojAssemblyReference.cache
+C:\Users\Aadyam\Documents\GitHub\WebApplication3\ClassLibrary3\obj\Debug\netcoreapp2.1\ClassLibrary3.csproj.CoreCompileInputs.cache
+C:\Users\Aadyam\Documents\GitHub\WebApplication3\ClassLibrary3\obj\Debug\netcoreapp2.1\ClassLibrary3.AssemblyInfoInputs.cache
+C:\Users\Aadyam\Documents\GitHub\WebApplication3\ClassLibrary3\obj\Debug\netcoreapp2.1\ClassLibrary3.AssemblyInfo.cs
+C:\Users\Aadyam\Documents\GitHub\WebApplication3\ClassLibrary3\obj\Debug\netcoreapp2.1\ClassLibrary3.dll
+C:\Users\Aadyam\Documents\GitHub\WebApplication3\ClassLibrary3\obj\Debug\netcoreapp2.1\ClassLibrary3.pdb
