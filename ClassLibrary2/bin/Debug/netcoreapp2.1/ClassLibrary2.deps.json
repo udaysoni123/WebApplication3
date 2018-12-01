@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.1": {
-      "ClassLibrary2/1.0.1": {
+      "ClassLibrary2/1.1.0": {
         "runtime": {
           "ClassLibrary2.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "ClassLibrary2/1.0.1": {
+    "ClassLibrary2/1.1.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
